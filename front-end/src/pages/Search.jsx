@@ -70,7 +70,7 @@ const Search = () => {
                 borderBottom="1px solid #777"
                 pb={4}
               >
-                <Avatar size="lg" src={user.avatar.url} />
+                <Avatar size="lg" src={user.avatar?.url} />
                 <VStack alignItems="start" gap={0}>
                   <Text fontWeight={"bold"} fontSize="sm">
                     @ {user.username}
