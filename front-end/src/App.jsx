@@ -11,7 +11,7 @@ import Register from "./user/Register";
 import Feed from "./pages/Feed";
 import Profile from "./user/Profile";
 import ProtectedRoute from "./components/ProtectedRoute";
-import SideBar from "./components/SideBar";
+import SideBar from "./components/Sidebar";
 import PostPage from "./post/PostPage";
 import UpdateProfile from "./user/UpdateProfile";
 import UpdatePassword from "./user/components/UpdatePassword";
