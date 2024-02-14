@@ -1,0 +1,14 @@
+.main {
+    margin-left: 250px;
+}
+
+.inputIcon {
+    font-size: 28px;
+    transform: translateX(-10px);
+}
+
+@media (max-width:767px) {
+    .main {
+        margin-left: auto;
+    }
+}
